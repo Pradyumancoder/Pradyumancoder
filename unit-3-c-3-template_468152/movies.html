@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Movies</title>
+<style>
+  #search_bar{
+    text-align: center;
+  }
+  #movies{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+  }
+</style>
+  </head>
+  <body>
+    <div id="navbar">
+      <h1>Movie List</h1>
+      <h1 id="wallet">0</h1>
+     <inpu">
+    </div>
+    <div id="search_bar" >
+    <input type="text" oninput="searchMovies()" id="query">
+      <!-- input box for searching movies with id as "search" -->
+      <!-- No button should be there for searching movies, it should search with input  -->
+    </div>
+
+    <div id="movies">
+      <!-- Append all searched movies here in grid format -->
+      <!-- Every movie card should have image, title and a book now button  -->
+      <!-- Book now buttons should have class "book_now"  -->
+    </div>
+  </body>
+</html>
+<script>
+  let moves_div=document.getElementById("movies");
+  let id;
+  async function searchMovies(){
+    try{
+      const query =document.getElementById("query").value;
+      const res =await fetch(`https://www.omdbapi.com/?s=${query}&apikey=20159b4d`)
+      const data=await res.json();
+      console.log("data:",data)
+    appendMovies(data.Search)
+    
+  }
+  catch(err){
+    console.log(err)
+  }
+
+  }
+  function appendMovies(data) {
+console.log(data)
+data.map(function (ele){
+  let div=document.createElement("div")
+
+  let tile=document.createElement("p")
+    tile.innerText=ele.Title;
+
+    let img=document.createElement("img")
+    img.src=ele.Poster
+
+    let btn=document.createElement("button")
+    btn.innerText="booknow"
+    btn.addEventListener("click",function(){
+      bookmovies(ele)
+    })
+    div.append(tile,img, btn)
+    document.getElementById("movies").append(div)
+
+})
+  }
+
+function bookmovies(ele){
+  console.log(ele)
+  localStorage.setItem("movie",JSON.stringify(ele))
+  window.location.href="checkout.html"
+
+}
+
+</script>

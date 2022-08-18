@@ -1,7 +1,7 @@
 
 
 
-![logo](https://github.com/Pradyumancoder/Pradyumancoder/blob/main/banner%20(3).png)
+![logo](https://github.com/Pradyumancoder/Pradyumancoder/blob/main/banner%20(5).png)
 
 
 

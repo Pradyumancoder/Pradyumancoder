@@ -1,21 +1,21 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Huzaifa Sheikh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Pradyuman Shukla</h1>
 <h4 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h4>
 
-🌍 I'm based in Delhi, India
+🌍 I'm based in Mumbai, India
 
-⚛️ Some technologies that I love to working with includes MERN stack, Typescript & Web Testing.
+⚛️ Some technologies that I love to working with includes MERN stack, React & Web Testing.
 
 🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap & styled-components.
 
-😃 My interest includes Cybersecurity & Blockchain technology.
+😃 My interest includes developing new things.
 
-📧 Email - huzaifasheikh7860123@gmail.com
+📧 Email - shuklapradyuman786@gmail.com
 
-💼 Portfolio - [huzaifa-sheikh.netlify.app](https://huzaifa-sheikh.netlify.app/)
+💼 Portfolio - [pradyumancoder.github.io](https://huzaifa-sheikh.netlify.app/)
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-sheikh-0974a5236/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@huzaifasheikh7860123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/pradyuman-shukla//) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shuklapradyuman786)
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -37,8 +37,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=huzaifa621&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Pradyumancoder&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=huzaifa621&theme=react&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pradyumancoder&theme=react&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa621&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradyumancoder&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)

@@ -11,7 +11,7 @@
 
 📧 Email - shuklapradyuman786@gmail.com
 
-💼 Portfolio - [pradyumancoder.github.io](https://huzaifa-sheikh.netlify.app/)
+💼 Portfolio - [pradyumancoder.github.io](https://pradyumancoder.github.io)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/pradyuman-shukla//) 

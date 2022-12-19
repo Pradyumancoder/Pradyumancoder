@@ -8,7 +8,7 @@
 
 🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap & styled-components.
 
-😃 My interest includes Cybersecurity & Blockchain technology.
+😃 My interest includes Cybersecurity & Technology related things.
 
 📧 Email - shuklapradyuman786@gmail.com
 
